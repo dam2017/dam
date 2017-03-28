@@ -7,6 +7,8 @@ public class MainGuillermo {
 		System.out.println("Dario al habla!!");
 		System.out.println("el guille primo al habla editado por ivan");
 		
+		System.out.println("hola dario me lees, aqui guille");
+		
 
 	}
 
