@@ -9,7 +9,7 @@ public class MainGuillermo {
 		
 		System.out.println("hola dario me lees, aqui guille");
 		
-		System.out.println("Prueba Alfonso");
+		System.out.println("Prueba Alfonso");//comentario correcto
 		
 
 	}
