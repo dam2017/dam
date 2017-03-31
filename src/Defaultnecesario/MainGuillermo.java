@@ -6,9 +6,14 @@ public class MainGuillermo {
 		//borrado aceptado
 		System.out.println("probando merge");
 		
+<<<<<<< HEAD
 		
 		//adadasdadsasd
 		//Version Guillermo
+=======
+		//Probando subida
+		
+>>>>>>> refs/remotes/origin/master
 
 	}
 
